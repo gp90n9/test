@@ -20,6 +20,8 @@ import android.view.animation.Animation.AnimationListener;
  */
 public class SplashActivity extends ThinkAndroidBaseActivity {
 	private static final String SYSTEMCACHE = "thinkandroid";
+	
+	///1
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
