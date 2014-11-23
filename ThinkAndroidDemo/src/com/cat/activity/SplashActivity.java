@@ -22,6 +22,8 @@ public class SplashActivity extends ThinkAndroidBaseActivity {
 	private static final String SYSTEMCACHE = "thinkandroid";
 	
 	///1
+	
+	///5
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
