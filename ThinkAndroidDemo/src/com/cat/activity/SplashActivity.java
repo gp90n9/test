@@ -29,6 +29,7 @@ public class SplashActivity extends ThinkAndroidBaseActivity {
 	///5
 	
 	///6
+	//8
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
